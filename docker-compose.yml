@@ -1,0 +1,18 @@
+﻿version: '3.8'
+
+services:
+  agentiq-db:
+    image: postgres:15-alpine
+    container_name: agentiq-postgres
+    restart: always
+    environment:
+      POSTGRES_USER: agentiq
+      POSTGRES_PASSWORD: agentiq_secret_password
+      POSTGRES_DB: agentiq_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:

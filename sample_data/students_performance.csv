@@ -1,0 +1,61 @@
+student_id,name,age,gender,department,study_hours,attendance_percentage,marks,grade,email
+STU1000,Aarav Sharma,20,Female,Electronics,4.3,85.2,82.4,A,aarav.sharma@university.edu
+STU1001,Diya Patel,21,Male,Information Technology,8.5,77.3,99.0,A+,diya.patel@university.edu
+STU1002,Vivaan Reddy,19,Male,Computer Science,1.5,91.5,72.8,B,vivaan.reddy@university.edu
+STU1003,Ananya Gupta,19,Male,Data Engineering,3.5,96.7,80.4,A,ananya.gupta@university.edu
+STU1004,Aditya Verma,19,Female,Data Engineering,6.7,76.8,88.0,A,aditya.verma@university.edu
+STU1005,Ishaan Kumar,19,Female,Data Engineering,8.4,81.9,96.4,A+,ishaan.kumar@university.edu
+STU1006,Saanvi Rao,19,Female,Computer Science,4.0,92.9,93.6,A+,saanvi.rao@university.edu
+STU1007,Rohan Mehta,19,Female,Electronics,8.9,89.4,99.0,A+,rohan.mehta@university.edu
+STU1008,Sneha Joshi,19,Male,Computer Science,4.5,66.2,78.8,B,sneha.joshi@university.edu
+STU1009,Kavya Nair,20,Male,Data Engineering,5.4,85.2,85.3,A,kavya.nair@university.edu
+STU1010,Rahul Roy,19,Female,Electronics,7.7,90.9,99.0,A+,rahul.roy@university.edu
+STU1011,Pooja Iyer,19,Male,Computer Science,8.0,85.3,99.0,A+,pooja.iyer@university.edu
+STU1012,Arjun Sen,20,Male,Computer Science,8.9,73.0,99.0,A+,arjun.sen@university.edu
+STU1013,Meera Pillai,20,Male,Electronics,7.1,85.6,99.0,A+,meera.pillai@university.edu
+STU1014,Siddharth Das,21,Male,Data Engineering,5.7,81.4,81.3,A,siddharth.das@university.edu
+STU1015,Tanvi Kulkarni,20,Female,Computer Science,8.6,96.8,99.0,A+,tanvi.kulkarni@university.edu
+STU1016,Aditi Deshmukh,19,Male,Computer Science,7.5,93.6,99.0,A+,aditi.deshmukh@university.edu
+STU1017,Varun Bhat,19,Female,Data Engineering,7.1,75.0,90.4,A+,varun.bhat@university.edu
+STU1018,Nisha Kapoor,19,Male,Electronics,1.5,85.5,65.8,C,nisha.kapoor@university.edu
+STU1019,Harsh Pandey,20,Female,Computer Science,5.9,100.0,95.2,A+,harsh.pandey@university.edu
+STU1020,Rhea Menon,20,Female,Information Technology,6.5,65.3,81.1,A,rhea.menon@university.edu
+STU1021,Akash Jain,19,Female,Data Engineering,4.5,80.1,81.7,A,akash.jain@university.edu
+STU1022,Divya Sinha,19,Male,Information Technology,8.0,70.5,91.6,A+,divya.sinha@university.edu
+STU1023,Nikhil Choudhury,21,Male,Data Engineering,8.0,87.9,99.0,A+,nikhil.choudhury@university.edu
+STU1024,Simran Kaur,19,Female,Computer Science,9.9,90.7,99.0,A+,simran.kaur@university.edu
+STU1025,Manish Tiwari,19,Female,Computer Science,5.8,72.8,90.7,A+,manish.tiwari@university.edu
+STU1026,Priya Saxena,22,Male,Computer Science,5.8,87.6,93.8,A+,priya.saxena@university.edu
+STU1027,Karan Malhotra,20,Female,Computer Science,7.6,84.6,99.0,A+,karan.malhotra@university.edu
+STU1028,Shreya Paul,20,Male,Electronics,7.7,94.2,99.0,A+,shreya.paul@university.edu
+STU1029,Vikram Yadav,19,Male,Data Engineering,8.2,100.0,99.0,A+,vikram.yadav@university.edu
+STU1030,Aarav Sharma 2,21,Male,Electronics,5.0,70.7,82.8,A,aarav.sharma.2@university.edu
+STU1031,Diya Patel 2,21,Female,Data Engineering,9.0,79.5,99.0,A+,diya.patel.2@university.edu
+STU1032,Vivaan Reddy 2,20,Male,Information Technology,8.3,79.6,99.0,A+,vivaan.reddy.2@university.edu
+STU1033,Ananya Gupta 2,20,Female,Data Engineering,7.6,88.3,95.5,A+,ananya.gupta.2@university.edu
+STU1034,Aditya Verma 2,20,Male,Data Engineering,6.3,89.4,91.0,A+,aditya.verma.2@university.edu
+STU1035,Ishaan Kumar 2,20,Female,Computer Science,8.1,84.1,95.0,A+,ishaan.kumar.2@university.edu
+STU1036,Saanvi Rao 2,22,Female,Data Engineering,7.0,73.9,95.1,A+,saanvi.rao.2@university.edu
+STU1037,Rohan Mehta 2,21,Female,Electronics,6.6,68.2,83.1,A,rohan.mehta.2@university.edu
+STU1038,Sneha Joshi 2,21,Female,Information Technology,6.5,90.7,99.0,A+,sneha.joshi.2@university.edu
+STU1039,Kavya Nair 2,21,Female,Electronics,6.5,78.8,93.1,A+,kavya.nair.2@university.edu
+STU1040,Rahul Roy 2,20,Male,Data Engineering,6.4,76.7,81.7,A,rahul.roy.2@university.edu
+STU1041,Pooja Iyer 2,20,Male,Computer Science,7.2,77.3,97.4,A+,pooja.iyer.2@university.edu
+STU1042,Arjun Sen 2,19,Female,Electronics,7.6,69.3,99.0,A+,arjun.sen.2@university.edu
+STU1043,Meera Pillai 2,21,Female,Information Technology,10.2,61.7,99.0,A+,meera.pillai.2@university.edu
+STU1044,Siddharth Das 2,21,Male,Data Engineering,5.0,98.6,88.2,A,siddharth.das.2@university.edu
+STU1045,Tanvi Kulkarni 2,20,Female,Electronics,5.9,69.4,87.5,A,tanvi.kulkarni.2@university.edu
+STU1046,Aditi Deshmukh 2,23,Female,Data Engineering,3.8,100.0,81.1,A,aditi.deshmukh.2@university.edu
+STU1047,Varun Bhat 2,21,Male,Computer Science,3.9,86.4,82.8,A,varun.bhat.2@university.edu
+STU1048,Nisha Kapoor 2,20,Male,Data Engineering,3.9,80.9,69.8,C,nisha.kapoor.2@university.edu
+STU1049,Harsh Pandey 2,21,Female,Computer Science,3.9,96.4,77.5,B,harsh.pandey.2@university.edu
+STU1050,Rhea Menon 2,20,Female,Data Engineering,6.1,82.6,92.0,A+,rhea.menon.2@university.edu
+STU1051,Akash Jain 2,20,Male,Data Engineering,6.8,100.0,91.2,A+,akash.jain.2@university.edu
+STU1052,Divya Sinha 2,22,Male,Information Technology,5.5,84.1,90.5,A+,divya.sinha.2@university.edu
+STU1053,Nikhil Choudhury 2,19,Female,Computer Science,5.6,85.6,85.2,A,nikhil.choudhury.2@university.edu
+STU1054,Simran Kaur 2,21,Female,Electronics,5.2,90.8,90.0,A+,simran.kaur.2@university.edu
+STU1055,Manish Tiwari 2,21,Female,Data Engineering,5.1,94.8,86.3,A,manish.tiwari.2@university.edu
+STU1056,Priya Saxena 2,20,Female,Information Technology,9.6,77.6,99.0,A+,priya.saxena.2@university.edu
+STU1057,Karan Malhotra 2,22,Female,Electronics,7.0,88.8,94.8,A+,karan.malhotra.2@university.edu
+STU1058,Shreya Paul 2,20,Male,Information Technology,6.0,75.9,94.2,A+,shreya.paul.2@university.edu
+STU1059,Vikram Yadav 2,20,Male,Computer Science,8.6,93.6,99.0,A+,vikram.yadav.2@university.edu

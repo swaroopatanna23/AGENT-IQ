@@ -1,0 +1,121 @@
+invoice_id,customer_id,product_category,product_name,quantity,unit_price,total_amount,region,invoice_date,payment_method
+INV-2025000,CUST-241,Home & Kitchen,Desk Lamp,3,40.0,120.0,Central,2025-07-05,Debit Card
+INV-2025001,CUST-175,Home & Kitchen,Coffee Maker,2,130.0,260.0,South,2025-11-27,UPI
+INV-2025002,CUST-240,Electronics,Headphones,4,150.0,600.0,North,2025-01-07,UPI
+INV-2025003,CUST-182,Office Supplies,Standing Desk,1,250.0,250.0,East,2025-01-05,Credit Card
+INV-2025004,CUST-144,Office Supplies,Mechanical Keyboard,4,60.0,240.0,West,2025-11-23,Credit Card
+INV-2025005,CUST-190,Office Supplies,Mechanical Keyboard,1,250.0,250.0,South,2025-12-30,UPI
+INV-2025006,CUST-225,Clothing,Jeans,1,45.0,45.0,South,2025-05-21,UPI
+INV-2025007,CUST-230,Clothing,Sneakers,1,25.0,25.0,West,2026-02-27,Credit Card
+INV-2025008,CUST-216,Electronics,Monitor,8,800.0,6400.0,North,2025-11-08,Credit Card
+INV-2025009,CUST-179,Clothing,Jeans,1,110.0,110.0,East,2025-10-30,Credit Card
+INV-2025010,CUST-245,Clothing,Hoodie,10,25.0,250.0,North,2025-05-27,Net Banking
+INV-2025011,CUST-217,Home & Kitchen,Blender,1,130.0,130.0,South,2026-01-08,UPI
+INV-2025012,CUST-201,Home & Kitchen,Desk Lamp,3,130.0,390.0,North,2025-08-12,Net Banking
+INV-2025013,CUST-235,Office Supplies,Mechanical Keyboard,2,450.0,900.0,North,2025-06-13,UPI
+INV-2025014,CUST-244,Clothing,Sneakers,2,110.0,220.0,South,2025-08-16,Net Banking
+INV-2025015,CUST-145,Electronics,Laptop,2,1200.0,2400.0,East,2026-02-17,Credit Card
+INV-2025016,CUST-109,Home & Kitchen,Blender,5,130.0,650.0,East,2025-10-30,Credit Card
+INV-2025017,CUST-164,Office Supplies,Standing Desk,4,20.0,80.0,North,2025-10-16,UPI
+INV-2025018,CUST-126,Clothing,T-Shirt,1,45.0,45.0,South,2025-12-08,Debit Card
+INV-2025019,CUST-154,Electronics,Tablet,1,150.0,150.0,South,2026-01-20,Credit Card
+INV-2025020,CUST-122,Clothing,Sneakers,4,75.0,300.0,East,2025-09-16,Credit Card
+INV-2025021,CUST-209,Electronics,Tablet,5,300.0,1500.0,South,2025-03-26,UPI
+INV-2025022,CUST-131,Electronics,Smartwatch,1,800.0,800.0,North,2026-01-04,Net Banking
+INV-2025023,CUST-217,Clothing,Sneakers,1,75.0,75.0,East,2025-06-11,UPI
+INV-2025024,CUST-156,Home & Kitchen,Air Fryer,1,40.0,40.0,East,2026-01-24,UPI
+INV-2025025,CUST-137,Electronics,Tablet,2,300.0,600.0,West,2025-04-13,UPI
+INV-2025026,CUST-178,Clothing,Jeans,2,75.0,150.0,South,2025-11-04,Credit Card
+INV-2025027,CUST-237,Office Supplies,Standing Desk,2,250.0,500.0,East,2025-10-12,Net Banking
+INV-2025028,CUST-105,Office Supplies,Ergonomic Chair,2,450.0,900.0,North,2025-03-10,UPI
+INV-2025029,CUST-179,Electronics,Headphones,1,500.0,500.0,East,2026-01-06,Debit Card
+INV-2025030,CUST-124,Home & Kitchen,Air Fryer,1,210.0,210.0,North,2026-01-23,Net Banking
+INV-2025031,CUST-150,Home & Kitchen,Desk Lamp,2,40.0,80.0,Central,2025-03-02,UPI
+INV-2025032,CUST-169,Home & Kitchen,Blender,1,210.0,210.0,South,2025-01-22,Credit Card
+INV-2025033,CUST-144,Electronics,Tablet,2,300.0,600.0,West,2025-03-19,UPI
+INV-2025034,CUST-193,Home & Kitchen,Blender,1,130.0,130.0,East,2025-08-27,Net Banking
+INV-2025035,CUST-212,Home & Kitchen,Air Fryer,1,40.0,40.0,North,2025-09-14,Net Banking
+INV-2025036,CUST-127,Home & Kitchen,Blender,10,130.0,1300.0,South,2025-08-02,UPI
+INV-2025037,CUST-214,Home & Kitchen,Coffee Maker,2,40.0,80.0,North,2025-07-06,Net Banking
+INV-2025038,CUST-137,Home & Kitchen,Air Fryer,4,85.0,340.0,East,2025-10-01,UPI
+INV-2025039,CUST-138,Home & Kitchen,Air Fryer,1,40.0,40.0,East,2025-01-28,UPI
+INV-2025040,CUST-112,Electronics,Laptop,1,300.0,300.0,South,2025-01-25,Credit Card
+INV-2025041,CUST-210,Office Supplies,Ergonomic Chair,3,250.0,750.0,East,2025-05-26,Debit Card
+INV-2025042,CUST-200,Clothing,Jeans,2,110.0,220.0,South,2025-03-24,UPI
+INV-2025043,CUST-220,Clothing,Sneakers,2,45.0,90.0,North,2025-11-11,Credit Card
+INV-2025044,CUST-194,Electronics,Tablet,1,800.0,800.0,West,2025-11-14,UPI
+INV-2025045,CUST-135,Office Supplies,Notebook,4,250.0,1000.0,South,2025-02-09,Credit Card
+INV-2025046,CUST-233,Office Supplies,Notebook,4,450.0,1800.0,Central,2025-01-04,Debit Card
+INV-2025047,CUST-235,Clothing,T-Shirt,2,45.0,90.0,East,2025-07-13,Debit Card
+INV-2025048,CUST-118,Clothing,Jacket,4,25.0,100.0,North,2025-04-28,Net Banking
+INV-2025049,CUST-163,Office Supplies,Ergonomic Chair,3,450.0,1350.0,North,2025-03-31,UPI
+INV-2025050,CUST-233,Clothing,Hoodie,2,75.0,150.0,South,2025-09-16,Credit Card
+INV-2025051,CUST-229,Clothing,Jeans,2,45.0,90.0,Central,2025-01-13,Net Banking
+INV-2025052,CUST-137,Office Supplies,Ergonomic Chair,1,20.0,20.0,West,2026-02-03,Net Banking
+INV-2025053,CUST-177,Home & Kitchen,Air Fryer,1,40.0,40.0,West,2025-08-24,UPI
+INV-2025054,CUST-163,Electronics,Smartwatch,5,800.0,4000.0,South,2025-01-01,Net Banking
+INV-2025055,CUST-159,Clothing,Sneakers,4,110.0,440.0,West,2025-08-17,UPI
+INV-2025056,CUST-161,Clothing,Jacket,1,25.0,25.0,North,2025-03-19,UPI
+INV-2025057,CUST-203,Office Supplies,Ergonomic Chair,4,20.0,80.0,East,2025-11-24,Debit Card
+INV-2025058,CUST-244,Clothing,Jacket,2,25.0,50.0,East,2025-05-23,Credit Card
+INV-2025059,CUST-166,Electronics,Headphones,2,500.0,1000.0,South,2025-07-17,UPI
+INV-2025060,CUST-132,Home & Kitchen,Air Fryer,1,210.0,210.0,North,2025-04-21,Credit Card
+INV-2025061,CUST-132,Office Supplies,Standing Desk,4,450.0,1800.0,Central,2025-04-07,Credit Card
+INV-2025062,CUST-217,Clothing,Sneakers,2,45.0,90.0,South,2025-11-26,Credit Card
+INV-2025063,CUST-235,Clothing,Hoodie,1,110.0,110.0,South,2025-07-03,Debit Card
+INV-2025064,CUST-214,Electronics,Tablet,1,800.0,800.0,West,2026-02-15,Debit Card
+INV-2025065,CUST-173,Home & Kitchen,Desk Lamp,2,130.0,260.0,East,2025-05-28,Debit Card
+INV-2025066,CUST-239,Office Supplies,Standing Desk,1,250.0,250.0,South,2025-10-29,Debit Card
+INV-2025067,CUST-159,Clothing,Hoodie,1,45.0,45.0,East,2025-04-21,Net Banking
+INV-2025068,CUST-171,Home & Kitchen,Desk Lamp,1,210.0,210.0,East,2026-01-11,Credit Card
+INV-2025069,CUST-139,Home & Kitchen,Coffee Maker,3,130.0,390.0,East,2025-02-20,Credit Card
+INV-2025070,CUST-156,Electronics,Smartwatch,2,1200.0,2400.0,Central,2025-04-20,Net Banking
+INV-2025071,CUST-156,Electronics,Smartwatch,2,1200.0,2400.0,South,2025-11-05,Credit Card
+INV-2025072,CUST-229,Electronics,Headphones,1,800.0,800.0,South,2025-03-16,UPI
+INV-2025073,CUST-124,Home & Kitchen,Coffee Maker,2,130.0,260.0,South,2025-12-30,Debit Card
+INV-2025074,CUST-249,Home & Kitchen,Desk Lamp,2,210.0,420.0,South,2025-10-12,Debit Card
+INV-2025075,CUST-247,Clothing,Sneakers,1,25.0,25.0,North,2025-03-25,Credit Card
+INV-2025076,CUST-240,Clothing,Sneakers,2,110.0,220.0,South,2025-09-14,Net Banking
+INV-2025077,CUST-148,Clothing,Jacket,1,75.0,75.0,South,2025-06-07,Credit Card
+INV-2025078,CUST-212,Electronics,Tablet,2,500.0,1000.0,North,2025-03-19,Debit Card
+INV-2025079,CUST-230,Clothing,Jacket,1,25.0,25.0,South,2025-02-24,Debit Card
+INV-2025080,CUST-131,Office Supplies,Standing Desk,1,60.0,60.0,South,2025-03-28,Debit Card
+INV-2025081,CUST-171,Clothing,Hoodie,2,25.0,50.0,North,2025-09-12,Credit Card
+INV-2025082,CUST-107,Clothing,T-Shirt,3,75.0,225.0,West,2025-04-02,Debit Card
+INV-2025083,CUST-243,Clothing,Jacket,1,45.0,45.0,East,2025-10-29,Debit Card
+INV-2025084,CUST-106,Office Supplies,Mechanical Keyboard,3,20.0,60.0,South,2025-11-07,Net Banking
+INV-2025085,CUST-128,Clothing,T-Shirt,1,75.0,75.0,North,2026-02-07,Net Banking
+INV-2025086,CUST-229,Office Supplies,Standing Desk,4,250.0,1000.0,East,2025-01-11,UPI
+INV-2025087,CUST-236,Home & Kitchen,Air Fryer,1,210.0,210.0,East,2026-02-26,Net Banking
+INV-2025088,CUST-180,Clothing,Hoodie,1,110.0,110.0,Central,2025-12-30,Net Banking
+INV-2025089,CUST-113,Clothing,Jacket,4,110.0,440.0,North,2026-01-05,Debit Card
+INV-2025090,CUST-103,Electronics,Headphones,2,150.0,300.0,North,2025-08-23,UPI
+INV-2025091,CUST-245,Clothing,Jeans,5,45.0,225.0,North,2025-03-16,UPI
+INV-2025092,CUST-221,Office Supplies,Ergonomic Chair,4,20.0,80.0,North,2025-01-17,Credit Card
+INV-2025093,CUST-233,Office Supplies,Notebook,1,60.0,60.0,North,2025-11-09,Debit Card
+INV-2025094,CUST-244,Home & Kitchen,Desk Lamp,1,40.0,40.0,East,2026-01-29,Credit Card
+INV-2025095,CUST-153,Clothing,Hoodie,1,45.0,45.0,South,2025-05-10,Net Banking
+INV-2025096,CUST-110,Home & Kitchen,Blender,1,210.0,210.0,West,2025-01-29,Credit Card
+INV-2025097,CUST-153,Office Supplies,Notebook,1,20.0,20.0,East,2025-08-20,Debit Card
+INV-2025098,CUST-180,Clothing,Hoodie,2,45.0,90.0,North,2025-05-28,Debit Card
+INV-2025099,CUST-139,Clothing,Jacket,2,45.0,90.0,East,2025-03-14,Credit Card
+INV-2025100,CUST-134,Electronics,Laptop,2,500.0,1000.0,East,2025-01-25,Debit Card
+INV-2025101,CUST-111,Home & Kitchen,Coffee Maker,3,210.0,630.0,Central,2025-04-12,UPI
+INV-2025102,CUST-156,Home & Kitchen,Blender,1,130.0,130.0,Central,2025-01-17,UPI
+INV-2025103,CUST-248,Home & Kitchen,Blender,1,85.0,85.0,Central,2025-12-05,Net Banking
+INV-2025104,CUST-158,Electronics,Tablet,3,150.0,450.0,Central,2025-09-25,Debit Card
+INV-2025105,CUST-244,Clothing,T-Shirt,5,75.0,375.0,North,2025-01-16,Debit Card
+INV-2025106,CUST-106,Home & Kitchen,Coffee Maker,2,85.0,170.0,South,2025-12-01,Credit Card
+INV-2025107,CUST-215,Electronics,Smartwatch,5,300.0,1500.0,South,2025-03-23,Debit Card
+INV-2025108,CUST-207,Home & Kitchen,Air Fryer,1,85.0,85.0,East,2025-01-14,Debit Card
+INV-2025109,CUST-207,Office Supplies,Ergonomic Chair,1,20.0,20.0,South,2025-07-02,Debit Card
+INV-2025110,CUST-115,Home & Kitchen,Air Fryer,4,210.0,840.0,West,2026-02-13,Credit Card
+INV-2025111,CUST-112,Electronics,Headphones,4,300.0,1200.0,North,2025-06-19,UPI
+INV-2025112,CUST-128,Electronics,Headphones,5,500.0,2500.0,North,2025-10-29,Net Banking
+INV-2025113,CUST-220,Clothing,T-Shirt,2,25.0,50.0,South,2025-09-29,Net Banking
+INV-2025114,CUST-241,Clothing,T-Shirt,1,110.0,110.0,East,2025-06-26,Debit Card
+INV-2025115,CUST-172,Office Supplies,Standing Desk,4,60.0,240.0,North,2025-06-02,Net Banking
+INV-2025116,CUST-223,Home & Kitchen,Blender,1,210.0,210.0,North,2025-10-20,Credit Card
+INV-2025117,CUST-158,Clothing,Jacket,5,45.0,225.0,North,2025-02-21,Net Banking
+INV-2025118,CUST-206,Office Supplies,Mechanical Keyboard,4,60.0,240.0,East,2026-01-01,UPI
+INV-2025119,CUST-104,Clothing,T-Shirt,1,25.0,25.0,Central,2026-01-11,UPI
